@@ -3,6 +3,8 @@
 
 A list of dart packages / libraries that are available for building dart apps.  Have I missed something, or do you want to add your project?  Ping me an email at chrisbuckett at gmail.com, or at drop me a G+ message at [+ChrisBuckett](https://plus.google.com/u/0/117571249567635877826/).
 
+This list is also held on github at: [https://github.com/Dartwatch/Dart-Community-Packages-List](https://github.com/Dartwatch/Dart-Community-Packages-List) - Feel free to send pull requests for changes.
+
 
 Last updated: 29/ August / 2012
 
