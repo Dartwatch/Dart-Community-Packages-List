@@ -88,6 +88,8 @@ The following have been released publicly on code hosting sites or their own web
 ### Crypto
 * **Dart-crypto**: Port of parts of google.crypt lib 
     * [http://code.google.com/p/dart-crypto-lib/](http://code.google.com/p/dart-crypto-lib/)
+* **Dart-bignum**: Big number implementation compatiable with compiling to javascript.
+	* [https://github.com/Solvr/dart-bignum](https://github.com/Solvr/dart-bignum)
 
 ### Data Formats
 * **JsonObject** Strongly typed, dot notation JSON access
