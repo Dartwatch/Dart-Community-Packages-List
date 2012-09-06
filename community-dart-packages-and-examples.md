@@ -1,4 +1,3 @@
-
 # Dart Packages and Examples
 
 A list of dart packages / libraries that are available for building dart apps.  Have I missed something, or do you want to add your project?  Ping me an email at chrisbuckett at gmail.com, or at drop me a G+ message at [+ChrisBuckett](https://plus.google.com/u/0/117571249567635877826/).
@@ -63,7 +62,7 @@ The following have been released publicly on code hosting sites or their own web
 
 ### 3d geometry
 * **Three.dart**: a port of three.js
-    * [https://github.com/robsilv/three.dart](https://github.com/robsilv/three.dart)
+    * [https://github.com/threeDart/three.dart](https://github.com/threeDart/three.dart)
 * **Dart-Vector-Math**: A library for performing vector match calculations
     * [https://github.com/johnmccutchan/DartVectorMath](https://github.com/johnmccutchan/DartVectorMath)
     * Full description here: [http://www.johnmccutchan.com/2012/03/announcing-dart-vector-math.html](http://www.johnmccutchan.com/2012/03/announcing-dart-vector-math.html)
