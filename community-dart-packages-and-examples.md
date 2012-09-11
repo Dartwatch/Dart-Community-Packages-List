@@ -32,6 +32,8 @@ The following have been released publicly on code hosting sites or their own web
     * [https://github.com/zhygr/edt](https://github.com/zhygr/edt)
 * **Dart Squid**: SVG Components
     * [https://github.com/IntersoftDev/dart-squid](https://github.com/IntersoftDev/dart-squid)
+* **DockSpawn**: Web based dock layout engine
+    * [https://github.com/coderespawn/dock-spawn](https://github.com/coderespawn/dock-spawn)
 
 
 ### Mobile development
