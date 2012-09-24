@@ -5,7 +5,7 @@ A list of dart packages / libraries that are available for building dart apps.  
 This list is also held on github at: [https://github.com/Dartwatch/Dart-Community-Packages-List](https://github.com/Dartwatch/Dart-Community-Packages-List) - Feel free to send pull requests for changes.
 
 
-Last updated: 29/ August / 2012
+Last updated: 24/ Sept / 2012
 
 ## Dart Source Code
 
@@ -115,6 +115,8 @@ The following have been released publicly on code hosting sites or their own web
     * [https://github.com/lvivski/start](https://github.com/lvivski/start)
 * **mod_dart**  Dart module for apache (needs building from source)
     * [https://github.com/sam-mccall/mod_dart](https://github.com/sam-mccall/mod_dart)
+* **synth** Simple, minimal, and efficient Dart web developement framework.
+    * [https://github.com/maiah/synth](https://github.com/maiah/synth)
 
 ### Auth
 * Article explaining how to use oauth with Dart: [http://unpythonic.blogspot.co.uk/2011/11/oauth20-and-jsonp-with-dartin-web.html](http://unpythonic.blogspot.co.uk/2011/11/oauth20-and-jsonp-with-dartin-web.html)
