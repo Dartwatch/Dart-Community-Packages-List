@@ -157,8 +157,9 @@ The following have been released publicly on code hosting sites or their own web
     * [http://tdd-dart.blogspot.de/2012/01/test.html](http://tdd-dart.blogspot.de/2012/01/test.html)
 
 ### Application Design
-* **Magic Boxes**: domain model design, (Dart code generation coming at some point)
-    * [http://dzenanr.github.com/](http://dzenanr.github.com/)
+* **Magic Boxes**: The JSON representation of a model is generated in [MagicBoxes](https://github.com/dzenanr/magic_boxes). This representation is used in the [Dartling domain model framework](https://github.com/dzenanr/dartling) to generate code for the model
+    * [MagicBoxes](https://github.com/dzenanr/magic_boxes)
+    * [Dartling domain model framework](https://github.com/dzenanr/dartling)
 
 ### Game Engines
 * **Funtime**: 
