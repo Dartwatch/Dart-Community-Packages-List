@@ -5,7 +5,7 @@ A list of dart packages / libraries that are available for building dart apps.  
 This list is also held on github at: [https://github.com/Dartwatch/Dart-Community-Packages-List](https://github.com/Dartwatch/Dart-Community-Packages-List) - Feel free to send pull requests for changes.
 
 
-Last updated: 24/ Sept / 2012
+Last updated: 12/ Nov / 2012
 
 ## Dart Source Code
 
