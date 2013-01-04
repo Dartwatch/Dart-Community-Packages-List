@@ -34,7 +34,10 @@ The following have been released publicly on code hosting sites or their own web
     * [https://github.com/IntersoftDev/dart-squid](https://github.com/IntersoftDev/dart-squid)
 * **DockSpawn**: Web based dock layout engine
     * [https://github.com/coderespawn/dock-spawn](https://github.com/coderespawn/dock-spawn)
-
+* **SimpleMVP**: A MVP frawework inspired by Backbone
+    * [https://github.com/vsavkin/SimpleMVP](https://github.com/vsavkin/SimpleMVP)
+* **DataBinder**: A data binding library using reflection mirrors
+    * [https://github.com/vsavkin/databinder](https://github.com/vsavkin/databinder)
 
 ### Mobile development
 * **DartGap**: Cordova / Phonegap Interaction
